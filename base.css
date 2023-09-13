@@ -20,11 +20,11 @@ body {
 }
 .menu {
     width: 15%;
-    background-color: #f07178;
+    background-color: #04d9b2;
     padding: 10px 20px 0px;
 }
 .header {
-    background-color: #f07178;
+    background-color: white;
     min-height: 150px;
 }
 .content {
@@ -33,6 +33,7 @@ body {
     padding: 20px;
 }
 .footer {
-    background-color: #f07178;
+    background-color: whitesmoke;
     min-height: 150px;
+    padding: 20px;
 }
